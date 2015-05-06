@@ -1,0 +1,19 @@
+{
+  "name": "inuit-tools-pull",
+  "version": "0.1.0",
+  "homepage": "https://github.com/csshugs/tools.pull",
+  "authors": [
+    "Dennis Heibuelt <dennis@csshugs.com>"
+  ],
+  "description": "Pull generator",
+  "main": "_tools.pull.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "inuit-defaults": "~0.2.3"
+  }
+}
